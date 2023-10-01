@@ -1,6 +1,8 @@
 # Wasteland
 Basic Rpg using pygame
-## Wasteland
-### Wasteland
-#### Wasteland
-##### Wasteland
+## Goals
+### Character customization & Development
+### Active and evolving environment
+### Turn-based combat system
+## To-Do
+###
